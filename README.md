@@ -1,5 +1,3 @@
-# NextCLi.github.io
-NextCLi.github.io
 
 # NextCLi.com 平台介绍 👋
 #### 提供了服务器销售 https://my.NextCLi.com 客服 [@NextCLiBOT](https://t.me/NextCLiBOT)
